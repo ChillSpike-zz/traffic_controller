@@ -2,10 +2,7 @@ package in.geektrust.lengaburu.traffic;
 
 import java.util.Scanner;
 
-/**
- * @author dhanush
- *
- */
+
 public class LengaburuTraffic {
 
 	public String[] getDellanburuTimeAndVehicle(String weather, String dspeed) {
